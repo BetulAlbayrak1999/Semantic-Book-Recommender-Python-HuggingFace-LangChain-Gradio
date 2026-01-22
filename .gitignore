@@ -1,0 +1,6 @@
+# Vector databases / Chroma
+chroma_db/
+*.sqlite3
+*.csv
+*.txt
+.env
