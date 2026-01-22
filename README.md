@@ -1,6 +1,8 @@
 # 📚 Semantic Book Recommender System
 
 A smart book recommendation system that uses **semantic search**, **emotion analysis**, and **vector embeddings** to find the perfect books based on user descriptions and emotional preferences.
+<img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/a2256968-6b6d-4263-a421-c3079860d0af" />
+
 
 ## ✨ Features
 
