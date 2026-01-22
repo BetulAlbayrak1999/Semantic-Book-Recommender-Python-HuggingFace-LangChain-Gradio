@@ -2,5 +2,5 @@
 chroma_db/
 *.sqlite3
 *.csv
-*.txt
+tagged_description.txt
 .env
